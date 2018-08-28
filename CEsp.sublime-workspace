@@ -1,0 +1,667 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ene",
+				"enemy"
+			],
+			[
+				"en",
+				"enemies_controller"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"set",
+				"setColor"
+			],
+			[
+				"enem",
+				"enemies"
+			],
+			[
+				"p",
+				"player"
+			],
+			[
+				"Game",
+				"GameObject\tGameObject"
+			],
+			[
+				"Getcom",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"fixed",
+				"fixedDeltaTime\tfloat { get; set; }"
+			],
+			[
+				"fixe",
+				"fixedDeltaTime\tfloat { get; set; }"
+			],
+			[
+				"tim",
+				"timeScale\tfloat { get; set; }"
+			],
+			[
+				"Length",
+				"Array.length"
+			],
+			[
+				"play",
+				"playbackFrame"
+			],
+			[
+				"else",
+				"else\tElse"
+			],
+			[
+				"Uni",
+				"UnityEngine"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"GetCompo",
+				"GameObject.GetComponent<T>()"
+			],
+			[
+				"fr",
+				"frameTime"
+			],
+			[
+				"Vect",
+				"Vector3"
+			],
+			[
+				"GameO",
+				"GameObject\t*()"
+			],
+			[
+				"GetCom",
+				"GetComponent\tComponent.*<T>()"
+			],
+			[
+				"OnCollisionEnter2",
+				"OnCollisionEnter2D\tCollider2D.*(other)"
+			],
+			[
+				"canvas",
+				"canvas\tGraphic.*"
+			],
+			[
+				"Waiting",
+				"WaitingForInput"
+			],
+			[
+				"waiting",
+				"waitingForInput"
+			],
+			[
+				"canTalk",
+				"canTalk"
+			],
+			[
+				"OnCollision",
+				"OnCollisionEnter\tCollider.*(collisionInfo)"
+			],
+			[
+				"yDir",
+				"yDir"
+			],
+			[
+				"SetB",
+				"SetBool\tAnimator.*(id, value)"
+			],
+			[
+				"Rigi",
+				"Rigidbody2D\t[class]"
+			],
+			[
+				"Rgid",
+				"Rigidbody2D\t[class]"
+			],
+			[
+				"yD",
+				"yDir"
+			],
+			[
+				"xD",
+				"xDir"
+			],
+			[
+				"BoxCol",
+				"BoxCollider2D\t[class]"
+			],
+			[
+				"ge",
+				"generate_order"
+			],
+			[
+				"DONE",
+				"DONE"
+			],
+			[
+				"order",
+				"generate_order"
+			],
+			[
+				"good",
+				"goodbye"
+			],
+			[
+				"Done",
+				"DONE"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "counter_espionage.love/main.lua",
+			"settings":
+			{
+				"buffer_size": 666,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Dev/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeLove/Love.sublime-build",
+					""
+				],
+				[
+					"Packages/Kulture/ASP.NET.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeLove/Love.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 469.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ope",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resor",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ren",
+				"ANF: Rename File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"resourc",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"dele",
+				"ANF: Delete Current File"
+			],
+			[
+				"packa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 603.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/DeepRepos/LoveApps/CounterEspionage",
+		"/E/DeepRepos/LoveApps/CounterEspionage/counter_espionage.love"
+	],
+	"file_history":
+	[
+		"/E/DeepRepos/LoveApps/test_love/main.lua",
+		"/C/Users/galen/AppData/Roaming/Sublime Text 3/Packages/User/love-run.sublime-build",
+		"/G/Unity/Learn Unity/TwinSticks/TwinSticksGame/Assets/PlayerPrefsManager.cs",
+		"/G/Unity/Learn Unity/TwinSticks/TwinSticksGame/Assets/GameManager.cs",
+		"/G/Unity/Learn Unity/TwinSticks/TwinSticksGame/twinstickstp.sublime-project",
+		"/E/DeepRepos/story_teller/StoryTeller/Assets/Scripts/TalkingObject.cs",
+		"/G/Unity/Learn Unity/TwinSticks/TwinSticksGame/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs",
+		"/G/Unity/Learn Unity/TwinSticks/TwinSticksGame/Assets/ReplaySystem.cs",
+		"/G/Unity/Learn Unity/TwinSticks/TwinSticksGame/Assets/CameraPan.cs",
+		"/C/Users/galen/AppData/Roaming/Sublime Text 3/Packages/Theme - Spaceblack/Theme/Spaceblack.sublime-theme",
+		"/G/Unity/Learn Unity/TwinSticks/TwinSticksGame/Assets/Player/ReplaySystem.cs",
+		"/C/Users/galen/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/G/Unity/Learn Unity/TwinSticks/twinstickstp.sublime-project",
+		"/G/Unity/Learn Unity/TwinSticks/TwinSticksGame/TwinSticksGame.sln",
+		"/E/DeepRepos/StoryTeller/Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs",
+		"/C/Users/galen/AppData/Roaming/Sublime Text 3/Packages/Theme - Nil/Nil.sublime-theme",
+		"/G/Unity/Learn Unity/TwinSticks/TwinSticksGame/Assets/Player/MyReplay.cs",
+		"/E/DeepRepos/StoryTeller/Assets/Player.cs",
+		"/G/Unity/Learn Unity/TwinSticks/TwinSticksGame/Assets/Player/Player.cs",
+		"/E/DeepRepos/StoryTeller/Assets/CameraMove.cs",
+		"/G/Unity/Learn Unity/TwinSticks/TwinSticksGame/Assets/_Scripts/Player.cs",
+		"/G/Unity/Learn Unity/TwinSticks/.gitignore",
+		"/G/Unity/PinkMan/pinkman_new.sublime-project",
+		"/E/DeepRepos/udemyRpg/UdemyRPG/Assets/CameraFollow.cs",
+		"/G/Unity/PinkMan/Assets/_Scripts/TalkingObject.cs",
+		"/G/Unity/PinkMan/Assets/_Scripts/Coin.cs",
+		"/G/Unity/PinkMan/Assets/InkScripts/YellowMan.ink",
+		"/G/Unity/PinkMan/Assets/_Scripts/ButtonNavigation.cs",
+		"/C/Users/galen/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/galen/AppData/Roaming/Sublime Text 3/Packages/Theme - Eightlime/Eightlime Dark.sublime-theme",
+		"/C/Users/galen/AppData/Roaming/Sublime Text 3/Packages/Theme - Rainbow/Theme - Rainbow.sublime-settings",
+		"/G/Unity/Tales From The Darkside/Assets/_scripts/InkManager.cs",
+		"/C/Users/galen/AppData/Roaming/Sublime Text 3/Packages/Material Nil/Material-Nil.sublime-theme",
+		"/G/Unity/Learn Unity/2dTestZone/Assets/_Scripts/TalkingObject.cs",
+		"/G/Unity/PinkMan/Assets/_Scripts/ShowPosition.cs",
+		"/G/Unity/PinkMan/Assets/_Scripts/MovingObject.cs",
+		"/G/Unity/PinkMan/Assets/_Scripts/ScreenEdge.cs",
+		"/G/Unity/PinkMan/Assets/_Scripts/Player.cs",
+		"/G/Unity/Learn Unity/Laser Defender/Laser Defender/Assets/Scripts/position.cs",
+		"/G/Unity/Learn Unity/YouTubeRPG/Assets/_Scripts/TalkingObject.cs",
+		"/E/Dropbox/Unity/2d Platformer/Assets/_Scripts/PlayerController.cs",
+		"/G/Unity/Learn Unity/YouTubeRPG/Assets/_Scripts/Player.cs",
+		"/G/Unity/Learn Unity/YouTubeRPG/Assets/_Scripts/dog.ink",
+		"/G/Unity/PinkMan/Assets/_Scripts/CameraMove.cs",
+		"/G/Unity/PinkMan/Assets/_Scripts/Camera.cs",
+		"/G/Unity/Learn Unity/2dTestZone/Assets/Scene3/Pinkman.cs",
+		"/G/Unity/Learn Unity/2dTestZone/Assets/_Scripts/mainNPC.ink",
+		"/G/Unity/Learn Unity/Scavenger/Assets/_Scripts/MovingObject.cs",
+		"/G/Unity/Learn Unity/Scavenger/Assets/_Scripts/Wall.cs",
+		"/G/Unity/Learn Unity/Scavenger/Assets/_Scripts/GameManager.cs",
+		"/G/Unity/Learn Unity/Scavenger/Assets/_Scripts/Player.cs",
+		"/G/Unity/Learn Unity/2dTestZone/Assets/RPGTALK/Demo/Scripts/DemoScript.cs",
+		"/G/Unity/plugins/AnimationImporter-master/README.md",
+		"/G/Unity/Learn Unity/Scavenger/Assets/_Complete-Game/Scripts/Enemy.cs",
+		"/G/Unity/Learn Unity/Scavenger/Assets/_Complete-Game/Scripts/GameManager.cs",
+		"/G/Unity/Learn Unity/Scavenger/Assets/_Complete-Game/Scripts/Wall.cs",
+		"/G/Unity/Learn Unity/Scavenger/Assets/_Complete-Game/Scripts/Player.cs",
+		"/G/Unity/Learn Unity/Scavenger/Assets/_Complete-Game/Scripts/MovingObject.cs",
+		"/G/Unity/Learn Unity/Scavenger/Assets/_Scripts/Enemy.cs",
+		"/G/Unity/Tales From The Darkside/Assets/inkscripts/Nathan.ink",
+		"/G/Unity/Tales From The Darkside/Assets/inkscripts/Cup.ink",
+		"/G/Unity/Tales From The Darkside/Assets/inkscripts/carlisle.ink",
+		"/G/Unity/Tales From The Darkside/Assets/inkscripts/Rivie.ink",
+		"/G/Unity/Tales From The Darkside/Assets/inkscripts/Daniel.ink",
+		"/G/Unity/Tales From The Darkside/Assets/inkscripts/coach.ink",
+		"/G/Unity/Tales From The Darkside/Assets/_scripts/LevelManager.cs",
+		"/G/Unity/Tales From The Darkside/Assets/_scripts/MainMenu.cs",
+		"/G/Unity/Tales From The Darkside/Assets/_scripts/CoffeeManager.cs",
+		"/E/Dropbox/Unity/testNovel/Assets/_Scripts/InkManager.cs",
+		"/G/Unity/Tales From The Darkside/Assets/_scripts/CustomerManager.cs",
+		"/G/Unity/Tales From The Darkside/Assets/inkscripts/IrisNick 2.ink",
+		"/E/Dropbox/Tales From The Darkside/InkScripts/LS_Final_Characters/Nathan.ink",
+		"/E/Dropbox/Tales From The Darkside/InkScripts/LS_Final_Characters/Rivie.ink",
+		"/G/Unity/Tales From The Darkside/Assets/inkscripts/intro.ink",
+		"/G/Unity/Tales From The Darkside/Assets/inkscripts/TreeNick 1.ink",
+		"/G/Unity/Tales From The Darkside/Assets/Plugins/Ink/Editor/Compiler/InkCompiler.cs",
+		"/E/Tales From The Darkside/Assets/inkscripts/TreeNick.ink",
+		"/E/Tales From The Darkside/Assets/inkscripts/TreeNick.json",
+		"/G/Unity/Tales From The Darkside/Assets/GameMaster.cs",
+		"/E/Dropbox/Tales From The Darkside/InkScripts/L_S 4-15 Characters/ink/Cup.ink",
+		"/G/Unity/Tales From The Darkside/Assets/_scripts/Actor.cs",
+		"/G/Unity/Tales From The Darkside/Assets/_scripts/MusicManager.cs",
+		"/G/Unity/Tales From The Darkside/Assets/_scripts/LoadScene.cs",
+		"/G/Unity/Tales From The Darkside/Assets/_scripts/GameManager.cs",
+		"/E/Dropbox/Unity/testNovel/Assets/_Scripts/CharacterManager.cs",
+		"/G/Unity/Tales From The Darkside/Assets/inkscripts/Rivie_example.ink",
+		"/C/Users/galen/AppData/Roaming/Sublime Text 3/Packages/Theme - Windows 10/Windows 10.sublime-theme",
+		"/E/Dropbox/Unity/testNovel/Assets/_Scripts/GameManager.cs",
+		"/E/Dropbox/Unity/testNovel/Assets/_Scripts/Actor.cs",
+		"/E/Dropbox/Unity/testNovel/Assets/_Scripts/MainStory.ink",
+		"/G/Unity/testVNovel/Assets/_Scripts/Hello.ink",
+		"/G/Unity/testVNovel/Assets/_Scripts/CharacterManager.cs",
+		"/G/Unity/testVNovel/Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs",
+		"/G/Unity/testVNovel/Assets/_Scripts/InkManager.cs",
+		"/G/Unity/testVNovel/Assets/_Scripts/Actor.cs",
+		"/C/raylib/hello_windows.rb",
+		"/G/Unity/Tales From The Darkside/Assets/_scripts/JillInk.cs",
+		"/G/Unity/Tales From The Darkside/Assets/inkscripts/exampleCustomer.ink",
+		"/C/Users/galen/AppData/Roaming/Sublime Text 3/Packages/User/ink-global-symbols.tmPreferences",
+		"/C/Users/galen/AppData/Roaming/Sublime Text 3/Packages/User/ink.sublime-settings",
+		"/G/Unity/Tales From The Darkside/Assets/Scripts/Splash.cs",
+		"/G/Unity/Learn Unity/GlitchGarden/Assets/Scripts/LevelManager.cs",
+		"/F/Unity/TalesWIN-LOCAL/Assets/_scripts_repo/TalesDark/CoffeeManager.cs",
+		"/F/Unity/TalesWIN-LOCAL/Assets/_scripts_repo/TalesDark/CustomerManager.cs",
+		"/E/Code/rlwindow.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "counter_espionage.love/main.lua",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeLove/Love.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 146.0
+	},
+	"pinned_build_system": "Packages/User/love-run.sublime-build",
+	"project": "Cesp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"game",
+				"_Scripts\\GameManager.cs"
+			],
+			[
+				"coi",
+				"_Scripts\\Coin.cs"
+			],
+			[
+				"cam",
+				"_Scripts\\CameraMove.cs"
+			],
+			[
+				"movi",
+				"_Scripts\\MovingObject.cs"
+			],
+			[
+				"cu",
+				"inkscripts\\Cup.ink"
+			],
+			[
+				"ir",
+				"inkscripts\\IrisNick 2.ink"
+			],
+			[
+				"nath",
+				"inkscripts\\Nathan.ink"
+			],
+			[
+				"men",
+				"_scripts\\MainMenu.cs"
+			],
+			[
+				"tre",
+				"inkscripts\\TreeNick 1.ink"
+			],
+			[
+				"iri",
+				"inkscripts\\IrisNick 2.ink"
+			],
+			[
+				"coff",
+				"_scripts\\CoffeeManager.cs"
+			],
+			[
+				"ink",
+				"_Scripts\\InkManager.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\DeepRepos\\story_teller\\StoryTeller\\StoryTeller.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
