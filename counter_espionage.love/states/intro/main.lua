@@ -15,9 +15,10 @@ function love.update( ... )
     i = i + 1
   end
 
-  if love.keyboard.isDown("space") then loadState("mainGame") end
+  if love.keyboard.isDown("return") then loadState("mainGame") end
 end
 
 function love.draw()
   love.graphics.print(substring , 30, 40)
+  love.graphics.print('Press "Enter" to Begin...', 30, 500)
 end

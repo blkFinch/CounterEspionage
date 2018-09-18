@@ -14,7 +14,7 @@ function love.update(  )
 
   -- temp input grab to switch state
   if love.keyboard.isDown("space") then
-    loadState("mainGame")
+    loadState("intro")
   end
 end
 
@@ -25,6 +25,8 @@ function love.draw( ... )
   if xPos < 700 then
     love.graphics.setColor(0,0,0)
     love.graphics.rectangle('fill',xPos, yPos, 700, 400)
+  else
+    love.graphics.print('Press Space To Start', 200, 500)
   end
 end
 

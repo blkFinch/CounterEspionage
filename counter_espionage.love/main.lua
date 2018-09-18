@@ -31,7 +31,7 @@ function load( ... )
 end
 
 function love.load( ... )
-  loadState("intro")
+  loadState("splash")
 end
 
 function love.keypressed( key )
