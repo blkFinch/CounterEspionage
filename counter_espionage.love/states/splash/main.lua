@@ -4,12 +4,13 @@ function load( ... )
 --init splash cover at origin
   xPos = 0
   yPos = 0
-  speed = 4
+  speed = 400
 end
 
-function love.update(  )
+function love.update(dt)
   if(xPos < 700) then
-    xPos = xPos + speed
+    -- moves xPos by speed * delta time
+    xPos = xPos + ( dt * speed )
   end
 
   -- temp input grab to switch state

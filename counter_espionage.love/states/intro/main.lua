@@ -5,11 +5,12 @@ function load( ... )
   substring = " "
   i = 1
   delay = 10
+  speed = 300
 end
 
-function love.update( ... )
-  delay = delay - 1
-  if(delay == 0 and i <= #text )then
+function love.update( dt )
+  delay = delay - (dt * speed)
+  if(delay <= 0 and i <= #text )then
     delay = 10
     substring = string.sub(text,1,i)
     i = i + 1
