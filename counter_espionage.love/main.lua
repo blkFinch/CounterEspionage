@@ -1,3 +1,7 @@
+-- using serpant for table serialization
+serpent = require("serpent")
+binser = require("binser")
+
 --init game window settings
 font = love.graphics.setNewFont( "compFont.ttf", 12 )
 love.graphics.setColor(0, 1, 0)
@@ -17,7 +21,6 @@ function clearLoveCallbacks( ... )
   love.update = nil
 end
 
-state = {}
 function loadState( name )
   state = {}
   clearLoveCallbacks()
@@ -31,7 +34,7 @@ function load( ... )
 end
 
 function love.load( ... )
-  loadState("splash")
+  loadState("mainGame")
 end
 
 function love.keypressed( key )
